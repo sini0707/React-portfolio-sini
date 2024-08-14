@@ -61,7 +61,7 @@ export const PROJECTS = [
     description:
       "Developed a Netflix clone with dynamic content fetching powered by the TMDB API, enabling real-time updates to movies. Implemented Seamless API calls using the Axios module, optimizing data retrieval process for efficient performance and readability.",
     technologies: ["Tailwind CSS", "React", "TMDB API"],
-    github:
+   
   },
   // Uncomment if needed
   {
@@ -70,7 +70,7 @@ export const PROJECTS = [
     description:
       "Developed an OLX clone project using React.js and utilized Firebase as the backend to handle user authentication..",
     technologies: ["HTML", "CSS", "Firebase", "React"],
-    github:
+   
   },
 ];
 
