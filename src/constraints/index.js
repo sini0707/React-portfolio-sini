@@ -45,6 +45,7 @@ export const PROJECTS = [
     description:
       "The platform includes user-friendly interfaces with essential functionalities like product viewing, cart management, address management, and coupon handling.",
     technologies: ["HTML", "CSS", "JavaScript", "Node.js", "MongoDB", "Bootstrap", "Razorpay", "AWS"],
+    github:"https://github.com/sini0707/kids_fashion_e-commerce_MERN"
   },
   {
     title: "Doctor Appointment",
@@ -52,6 +53,7 @@ export const PROJECTS = [
     description:
       "Developed a dynamic online platform facilitating doctor booking and consultation. Enables seamless appointment scheduling, video consultation, and real-time chat support for instant assistance.",
     technologies: ["HTML", "CSS", "React", "AWS", "Socket.IO", "Zego Cloud API", "Tailwind CSS", "NGINX", "Stripe"],
+    github:"https://github.com/sini0707/MedicSafe"
   },
   {
     title: "Netflix React Clone",
@@ -59,6 +61,7 @@ export const PROJECTS = [
     description:
       "Developed a Netflix clone with dynamic content fetching powered by the TMDB API, enabling real-time updates to movies. Implemented Seamless API calls using the Axios module, optimizing data retrieval process for efficient performance and readability.",
     technologies: ["Tailwind CSS", "React", "TMDB API"],
+    github:
   },
   // Uncomment if needed
   {
@@ -67,6 +70,7 @@ export const PROJECTS = [
     description:
       "Developed an OLX clone project using React.js and utilized Firebase as the backend to handle user authentication..",
     technologies: ["HTML", "CSS", "Firebase", "React"],
+    github:
   },
 ];
 

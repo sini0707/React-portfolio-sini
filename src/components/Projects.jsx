@@ -33,6 +33,16 @@ const Projects = () => {
                 {project.technologies.map((tech,index)=>(
                     <span key={index} className="mr-2 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">{tech}</span>
                 ))}
+                <div className="mt-4">
+                <a
+                  href={project.github}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-blue-500 hover:underline"
+                >
+                  View on GitHub
+                </a>
+              </div>
                 </motion.div>
                 </div>
         ))}
